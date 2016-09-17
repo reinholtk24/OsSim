@@ -1,0 +1,394 @@
+Inserting Process: 3269 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 924 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 155
+					 #Process Removed From CPU#
+Inserting Process: 8486 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 6927 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 78
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 9640 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 2062 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [2062 ] CPU_TERM[ 236 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 25207 ] Memory[ 2957 ]
+					 #Process Removed From CPU#
+Inserting Process: 4834 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 104
+					 #Process Removed From CPU#
+Inserting Process: 926 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 74
+					 #Process Removed From CPU#
+Inserting Process: 616 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 162
+					 #Process Removed From CPU#
+Inserting Process: 1601 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [1601 ] CPU_TERM[ 9534 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 48026 ] Memory[ 821 ]
+					 #Process Removed From CPU#
+Inserting Process: 8507 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [8507 ] CPU_TERM[ 640 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 57560 ] Memory[ 3835 ]
+					 #Process Removed From CPU#
+Inserting Process: 4918 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 127
+					 #Process Removed From CPU#
+Inserting Process: 5033 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 113
+					 #Process Removed From CPU#
+Inserting Process: 191 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [191 ] CPU_TERM[ 9506 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 70303 ] Memory[ 7715 ]
+					 #Process Removed From CPU#
+Inserting Process: 3147 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [3147 ] CPU_TERM[ 1869 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 79809 ] Memory[ 7146 ]
+					 #Process Removed From CPU#
+Inserting Process: 1846 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 5
+					 Current Number of IO events = 127
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 76
+					 #Process Removed From CPU#
+Inserting Process: 1996 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [1996 ] CPU_TERM[ 4077 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 90696 ] Memory[ 9416 ]
+					 #Process Removed From CPU#
+Inserting Process: 3269 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 4
+					 Current Number of IO events = 84
+					 #Process Removed From CPU#
+Inserting Process: 924 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 8486 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [8486 ] CPU_TERM[ 9622 ] IO_TERM[ 0 ] 
+			 Wait_TERM[ 104868 ] Memory[ 6906 ]
+					 #Process Removed From CPU#
+Inserting Process: 6927 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [6927 ] CPU_TERM[ 6535 ] IO_TERM[ 1 ] 
+			 Wait_TERM[ 114487 ] Memory[ 60 ]
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 9640 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 50
+					 #Process Removed From CPU#
+Inserting Process: 4834 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 47
+					 #Process Removed From CPU#
+Inserting Process: 926 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [926 ] CPU_TERM[ 9924 ] IO_TERM[ 2 ] 
+			 Wait_TERM[ 126090 ] Memory[ 4035 ]
+					 #Process Removed From CPU#
+Inserting Process: 616 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 89
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 4918 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 5033 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 84
+					 #Process Removed From CPU#
+Inserting Process: 1846 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 106
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 6
+					 Current Number of IO events = 118
+					 #Process Removed From CPU#
+Inserting Process: 3269 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 924 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 193
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 9640 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 149
+					 #Process Removed From CPU#
+Inserting Process: 4834 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 140
+					 #Process Removed From CPU#
+Inserting Process: 616 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 165
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 159
+					 #Process Removed From CPU#
+Inserting Process: 4918 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [4918 ] CPU_TERM[ 9123 ] IO_TERM[ 1 ] 
+			 Wait_TERM[ 218811 ] Memory[ 9813 ]
+					 #Process Removed From CPU#
+Inserting Process: 5033 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 98
+					 #Process Removed From CPU#
+Inserting Process: 1846 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [1846 ] CPU_TERM[ 2063 ] IO_TERM[ 1 ] 
+			 Wait_TERM[ 234459 ] Memory[ 6969 ]
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 118
+					 #Process Removed From CPU#
+Inserting Process: 3269 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [3269 ] CPU_TERM[ 3792 ] IO_TERM[ 4 ] 
+			 Wait_TERM[ 239316 ] Memory[ 3281 ]
+					 #Process Removed From CPU#
+Inserting Process: 924 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 120
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 9640 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 95
+					 #Process Removed From CPU#
+Inserting Process: 4834 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [4834 ] CPU_TERM[ 4400 ] IO_TERM[ 3 ] 
+			 Wait_TERM[ 253910 ] Memory[ 2347 ]
+					 #Process Removed From CPU#
+Inserting Process: 616 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 59
+					 #Process Removed From CPU#
+Inserting Process: 5033 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 186
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 24
+					 #Process Removed From CPU#
+Inserting Process: 924 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [924 ] CPU_TERM[ 5921 ] IO_TERM[ 3 ] 
+			 Wait_TERM[ 258240 ] Memory[ 1353 ]
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 64
+					 #Process Removed From CPU#
+Inserting Process: 9640 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [9640 ] CPU_TERM[ 824 ] IO_TERM[ 2 ] 
+			 Wait_TERM[ 280793 ] Memory[ 8807 ]
+					 #Process Removed From CPU#
+Inserting Process: 616 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [616 ] CPU_TERM[ 9962 ] IO_TERM[ 1 ] 
+			 Wait_TERM[ 279167 ] Memory[ 9764 ]
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 155
+					 #Process Removed From CPU#
+Inserting Process: 5033 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 197
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 154
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 2
+					 Current Number of IO events = 163
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 5033 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [5033 ] CPU_TERM[ 486 ] IO_TERM[ 3 ] 
+			 Wait_TERM[ 316351 ] Memory[ 6973 ]
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 142
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 9
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 19
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 65
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 3
+					 Current Number of IO events = 193
+					 #Process Removed From CPU#
+Inserting Process: 5880 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [5880 ] CPU_TERM[ 2371 ] IO_TERM[ 1 ] 
+			 Wait_TERM[ 339196 ] Memory[ 1754 ]
+					 #Process Removed From CPU#
+Inserting Process: 5934 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [5934 ] CPU_TERM[ 4854 ] IO_TERM[ 1 ] 
+			 Wait_TERM[ 344392 ] Memory[ 116 ]
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting user input---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 209
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 1
+					 Current Number of IO events = 119
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				----Process moved to ready queue----
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+				+---Process Blocked: Awaiting hard drive request---+
+					 +--I/O Event located--+  Moving Process into Ready Queue...
+					 IO time = 4
+					 Current Number of IO events = 105
+					 #Process Removed From CPU#
+Inserting Process: 3897 into CPU. 
+ 			 -----Process Terminated-----
+			 PID [3897 ] CPU_TERM[ 4488 ] IO_TERM[ 4 ] 
+			 Wait_TERM[ 333064 ] Memory[ 5167 ]
+					 #Process Removed From CPU#

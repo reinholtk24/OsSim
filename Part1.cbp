@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Part1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Part1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Part1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="aliasCommand.cpp" />
+		<Unit filename="catch.cpp" />
+		<Unit filename="catch.hpp" />
+		<Unit filename="command.hpp" />
+		<Unit filename="commandDictionary.cpp" />
+		<Unit filename="commandDictionary.h" />
+		<Unit filename="commandHandler" />
+		<Unit filename="commandHandler.cpp" />
+		<Unit filename="commandHandler.h" />
+		<Unit filename="dateCommand.cpp" />
+		<Unit filename="directoryCommand.cpp" />
+		<Unit filename="helpCommand.cpp" />
+		<Unit filename="historyCommand.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pcb.cpp" />
+		<Unit filename="pcb.h" />
+		<Unit filename="pcbcommandhandler.cpp" />
+		<Unit filename="pcbcommandhandler.h" />
+		<Unit filename="quitCommand.cpp" />
+		<Unit filename="versionCommand.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
